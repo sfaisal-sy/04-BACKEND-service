@@ -8,5 +8,5 @@ connectDB();
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-    console.log(`03 - PORT IS RUNNING AT PORT ${PORT} `)
+    console.log(`04 - PORT IS RUNNING AT PORT ${PORT} `)
 });
